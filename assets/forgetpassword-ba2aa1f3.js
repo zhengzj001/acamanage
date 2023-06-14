@@ -1,0 +1,1 @@
+import{a7 as e,f as o,t as s,H as t}from"./index-7cad0716.js";const r=o({}),a={class:""};function n(c,p,f,_,d,i){return s(),t("div",a,"forgetpassword页面")}const m=e(r,[["render",n]]);export{m as default};
